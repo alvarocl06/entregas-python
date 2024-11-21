@@ -9,7 +9,7 @@ if __name__ == '__main__':
 
 class ColaDePrioridad[str, int]():
     def __init__(self):
-        
+     
         self._elements = []
         self._priorities = []
 
