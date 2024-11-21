@@ -68,6 +68,5 @@ except OverflowError as e:
 
 print(cola.remove())  # Debe imprimir: 'Tarea 1'
 
-if __name__ == '__main__':
     
     
